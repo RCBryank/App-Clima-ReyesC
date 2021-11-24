@@ -1,0 +1,15 @@
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\bin\Debug\Programa del Clima.exe.config
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\bin\Debug\Programa del Clima.exe
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\bin\Debug\Programa del Clima.pdb
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa del Clima.csprojAssemblyReference.cache
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa_del_Clima.Properties.Resources.resources
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa del Clima.csproj.GenerateResource.cache
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa del Clima.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa del Clima.exe
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa del Clima.pdb
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa_del_Clima.Form1.resources
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\obj\Debug\Programa del Clima.csproj.CopyComplete
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\bin\Debug\MetroFramework.dll
+C:\Users\Acer\Documents\Portafolio\Visual Studio Projects\Programa del Clima\bin\Debug\MetroFramework.Fonts.dll
